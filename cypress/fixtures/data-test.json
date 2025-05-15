@@ -1,0 +1,30 @@
+{
+    "admin" : {
+        "username"  : "Admin",
+        "password"  : "admin123"
+    },
+    "employee"  : {
+        "firstName"     : "Jefri",
+        "middleName"    : "Project",
+        "lastName"      : "Testing",
+        "longName"      : "Jefri Testing",
+        "fullName"      : "Jefri Project Testing",
+        "role"          : "ESS",
+        "status"        : "Enabled",
+        "username"      : "jefri",
+        "password"      : "Jefri123",
+        "leave"         : {
+            "leaveType"     : "US - Personal",
+            "entitlement"   : "12",
+            "fromDate"      : "2025-07-28",
+            "toDate"        : "2025-07-30",
+            "leavePeriod"   : "2025-07-28 to 2025-07-30",
+            "comments"      : "healing dulu boss",
+            "leaveBalance"  : "9.00",
+            "numberOfDay"   : "3.00",
+            "requestStatus" : "Pending Approval (3.00)",
+            "approvalStatus" : "Scheduled (3.00)"
+        }
+    }
+
+}
